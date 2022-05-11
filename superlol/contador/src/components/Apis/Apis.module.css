@@ -1,0 +1,25 @@
+
+.card{
+    padding: 10px;
+    background-color: black;
+    min-height: 50vh;
+    justify-content: center;
+    font-size:calc(10px + 2vmin) ;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+
+
+.fotos{
+  
+  padding-right: 20px;
+  width: 100%;
+}
+.epi:hover{
+  color: red;
+}
